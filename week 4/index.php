@@ -6,7 +6,7 @@
 </head>
 <body>
 <div class="container">
-<h1>Ambika Patidar's Autos Database</h1>
+<h1>Shubham Patel Autos Database</h1>
 <p>
 <a href="login.php">Please Log In</a>
 </p>
